@@ -8,4 +8,7 @@ GUI.geometry('500x700')
 L = Label(GUI, text="Punyarit Llaphachon")
 L.pack()
 
+L = Label(GUI, text="Rus@Hotmail")
+L.pack()
+
 GUI.mainloop()
